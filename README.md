@@ -1,5 +1,6 @@
 # Denoising-UNet
 Paper title : "Image Quality Improvement using convolutional denoising autoencoder based on U-Net".
+
 Inspired by U-Net, we proposed Denoising-UNet for removing the Gaussian noise from the degraded image.
 # Brief Description of Our Proposed Method
 Our model named Denoising-UNet was able to denoise an input image to be as similar as the original image, yet, to improve the image quality. he proposed model has demonstrated outstanding denoising performance compared to the existing baseline methods.
