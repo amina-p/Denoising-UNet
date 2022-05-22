@@ -17,7 +17,7 @@ Visual results of image denoising. Images from top to bottom are: Original Image
 
 As performance metrics, PSNR, SSIM and MSE are used to measure the performance of the proposed model. 
 
-The model has demonstrated outstanding denoising performance compared to existing baseline methods.  In a test of denoising the test images from gaussian noise with different noise densities(α= 10, 30, 50 and 70), the proposed model achieved a statistically significant value of PSNR and SSIM up to 36.8639 and 0.9944 respectively. 
+The model has demonstrated outstanding denoising performance compared to existing baseline methods.  In a test of denoising the test images from gaussian noise with different noise densities(α= 10, 30, 50 and 70), the proposed model achieved a statistically significant value of PSNR and SSIM up to 36.8639 and 0.9944 (average of five images)respectively. 
 ![Capture22](https://user-images.githubusercontent.com/61737618/169709918-8346d869-7e06-428f-aec6-b37343066c79.PNG)
 ![Capture23](https://user-images.githubusercontent.com/61737618/169709922-7e8405f0-2b02-4ddf-aee1-8c9330473ae2.PNG)
 ![Capture24](https://user-images.githubusercontent.com/61737618/169709923-a571da9a-3355-45db-8f99-2c86d041aa87.PNG)
